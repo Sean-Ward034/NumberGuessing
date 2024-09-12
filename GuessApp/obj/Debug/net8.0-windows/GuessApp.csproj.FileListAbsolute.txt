@@ -1,0 +1,14 @@
+C:\Users\shupa\SimpleApp\GuessApp\bin\Debug\net8.0-windows\GuessApp.exe
+C:\Users\shupa\SimpleApp\GuessApp\bin\Debug\net8.0-windows\GuessApp.deps.json
+C:\Users\shupa\SimpleApp\GuessApp\bin\Debug\net8.0-windows\GuessApp.runtimeconfig.json
+C:\Users\shupa\SimpleApp\GuessApp\bin\Debug\net8.0-windows\GuessApp.dll
+C:\Users\shupa\SimpleApp\GuessApp\bin\Debug\net8.0-windows\GuessApp.pdb
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\GuessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\GuessApp.AssemblyInfoInputs.cache
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\GuessApp.AssemblyInfo.cs
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\GuessApp.csproj.CoreCompileInputs.cache
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\GuessApp.dll
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\refint\GuessApp.dll
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\GuessApp.pdb
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\GuessApp.genruntimeconfig.cache
+C:\Users\shupa\SimpleApp\GuessApp\obj\Debug\net8.0-windows\ref\GuessApp.dll
